@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>第一篇 blog，讲讲我博客的由来</title>
+    <url>/2022/08/02/first-blog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h3 id="来龙去脉"><a href="#来龙去脉" class="headerlink" title="来龙去脉"></a>来龙去脉</h3><p>大概是在三个月前的某一天，看<a href="https://github.com/element-plus/element-plus">element-plus</a>仓库的时候在<a href="https://github.com/element-plus/element-plus/graphs/contributors">contributors</a>里发现一个非常卡哇伊头像的作者，如下：</p>
+<p><img src="https://avatars.githubusercontent.com/u/25154432?v=4" alt="avatar" loading="lazy"></p>
+<p>然后我就在想是哪位可爱的小盆友写代码这么厉害？好奇心促使我点进了他的<a href="https://github.com/YunYouJun">主页</a>，关于为什么讲这个人，主要原因是我的博客是根据他发表的<a href="https://www.yunyoujun.cn/share/how-to-build-your-site/">教程</a>搭建的，文章中详细的讲述了从0到制作完成到上线的整个流程，使用到的博客框架是<a href="https://hexo.io/zh-cn/">hexo</a>，默认的主题是<a href="https://github.com/hexojs/hexo-theme-landscape">hexo-theme-landscape</a>，长这样</p>
+<p><img src="https://d33wubrfki0l68.cloudfront.net/5997a40576f3beca7bbbd86fe79a795e9d520d8e/87f88/themes/screenshots/landscape.png" alt="avatar" loading="lazy"></p>
+<p>emm就是没那么好看，所以大家可以在<a href="https://hexo.io/themes/">这里</a>去安装自己喜欢的主题或者也可以直接使用云游君(也就是这位大佬)写的<a href="https://github.com/YunYouJun/hexo-theme-yun">主题</a>(主题使用的方法教程在<a href="https://yun.yunyoujun.cn/">这里</a>)，当然，也可以参考hexo官网的教程(注：新手我强烈建议看云游君的教程)，最后，希望大家都能够自己动手去完成一个自己喜欢的博客~</p>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>这是我的第一篇文章，由于之前没有写作的习惯，故而文笔不太好，希望大家见谅，最后希望自己在以后的时间里能够慢慢进步，加油</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+</search>
